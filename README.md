@@ -1,9 +1,7 @@
 gif2txt
 =======
 
-Gif image to to Ascii Text. (Just a toy)
-
-See also [img2txt](https://github.com/hit9/img2txt).
+Mp4 file to ascii text files
 
 DEMO
 ----
@@ -16,11 +14,11 @@ USAGE
 -----
 
 ```
-./gif2txt.py test.gif -m 80 -o out.html
+./gif2txt.py test.gif -m 80 -o images
 ```
+where images is a directory
 
 Requirements
 -----------
 
-* Jinja2
 * PIL
