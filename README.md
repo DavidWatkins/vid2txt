@@ -1,4 +1,4 @@
-gif2txt
+vid2txt
 =======
 
 Mp4 file to ascii text files
