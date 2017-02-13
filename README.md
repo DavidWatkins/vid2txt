@@ -36,4 +36,3 @@ Requirements
 * PIL
 * cv2
 * Jinja
-* 
