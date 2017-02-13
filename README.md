@@ -8,7 +8,7 @@ DEMO
 
 Gangnam Style
 
-HTML: http://davidwatkins.github.io/vid2txt/gangnam-style.html
+HTML: https://cdn.rawgit.com/davidwatkins/vid2txt/gh-pages/gangnam-style.html
 
 USAGE
 -----
