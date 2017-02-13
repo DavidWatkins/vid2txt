@@ -6,9 +6,7 @@ Mp4 file to ascii text files
 DEMO
 ----
 
-![](test.gif)
-
-HTML: http://hit9.github.io/gif2txt/out.html
+![](http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_5mb.mp4)
 
 USAGE
 -----
