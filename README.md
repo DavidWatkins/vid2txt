@@ -8,7 +8,7 @@ DEMO
 
 Gangnam Style
 
-HTML: http://hit9.github.io/gif2txt/gangnam-style.html
+HTML: http://davidwatkins.github.io/vid2txt/gangnam-style.html
 
 USAGE
 -----
@@ -35,3 +35,5 @@ Requirements
 
 * PIL
 * cv2
+* Jinja
+* 
