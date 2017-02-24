@@ -83,8 +83,11 @@ def read_txt_from_output(video_file_name, out_dir):
     txt_frames = [None] * length
 
     for i in range(length):
-        with open(out_dir + video_file_name + '.frame%d.txt' % (i+1), 'r') as txt_file:
-            txt_frames[i] = txt_file.read()
+        try:
+            with open(out_dir + video_file_name + '.frame%d.txt' % (i+1), 'r') as txt_file:
+                txt_frames[i] = txt_file.read()
+        except:
+            pass
 
     return txt_frames, frame_interval
 
